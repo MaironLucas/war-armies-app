@@ -13,12 +13,14 @@ class MatchRepositoryImpl implements MatchRepository {
   Stream<MatchState> watchMatch() => throw UnimplementedError();
 
   @override
-  Future<void> requestIncrement(String playerId) => throw UnimplementedError();
+  Future<void> requestIncrementTerritories(String playerId) =>
+      throw UnimplementedError();
 
   @override
-  Future<void> requestDecrement(String playerId) => throw UnimplementedError();
+  Future<void> requestDecrementTerritories(String playerId) =>
+      throw UnimplementedError();
 
   @override
-  Future<void> setTroops(String playerId, int total) =>
+  Future<void> setTerritories(String playerId, int count) =>
       throw UnimplementedError();
 }
