@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "appTitle": "War Armies",
+  "@appTitle": {
+    "description": "The application title."
+  }
+}

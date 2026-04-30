@@ -1,0 +1,3 @@
+class LanClientDataSource {
+  const LanClientDataSource();
+}

@@ -1,0 +1,3 @@
+class LanHostDataSource {
+  const LanHostDataSource();
+}
