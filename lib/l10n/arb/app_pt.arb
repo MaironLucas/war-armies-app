@@ -1,4 +1,25 @@
 {
   "@@locale": "pt",
-  "appTitle": "War Armies"
+  "appTitle": "War Armies",
+  "hostGame": "Criar Jogo",
+  "joinGame": "Entrar no Jogo",
+  "roomName": "Nome da Sala",
+  "playerName": "Nome do Jogador",
+  "createRoom": "Criar Sala",
+  "startMatch": "Iniciar Partida",
+  "killRoom": "Encerrar Sala",
+  "killRoomConfirm": "Isso desconectará todos os jogadores",
+  "joinRoom": "Entrar",
+  "leaveRoom": "Sair da Sala",
+  "territories": "Territórios",
+  "endMatch": "Encerrar Partida",
+  "leaveMatch": "Sair da Partida",
+  "discoveringRooms": "Procurando salas…",
+  "hostingRoom": "Criando sala…",
+  "joiningRoom": "Entrando na sala…",
+  "waitingForHost": "Aguardando o anfitrião iniciar a partida…",
+  "noRoomsFound": "Nenhuma sala encontrada na rede",
+  "errorGeneric": "Algo deu errado",
+  "players": "Jogadores",
+  "set": "Definir"
 }

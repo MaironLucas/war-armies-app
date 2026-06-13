@@ -3,5 +3,89 @@
   "appTitle": "War Armies",
   "@appTitle": {
     "description": "The application title."
+  },
+  "hostGame": "Host Game",
+  "@hostGame": {
+    "description": "Button label to host a new game."
+  },
+  "joinGame": "Join Game",
+  "@joinGame": {
+    "description": "Button label to join an existing game."
+  },
+  "roomName": "Room Name",
+  "@roomName": {
+    "description": "Label for the room name text field."
+  },
+  "playerName": "Player Name",
+  "@playerName": {
+    "description": "Label for the player name text field."
+  },
+  "createRoom": "Create Room",
+  "@createRoom": {
+    "description": "Button label to create a new room."
+  },
+  "startMatch": "Start Match",
+  "@startMatch": {
+    "description": "Button label to start the match."
+  },
+  "killRoom": "Kill Room",
+  "@killRoom": {
+    "description": "Button label to destroy the room and disconnect all players."
+  },
+  "killRoomConfirm": "This will disconnect all players",
+  "@killRoomConfirm": {
+    "description": "Confirmation message when killing a room."
+  },
+  "joinRoom": "Join",
+  "@joinRoom": {
+    "description": "Button label to join a room."
+  },
+  "leaveRoom": "Leave Room",
+  "@leaveRoom": {
+    "description": "Button label to leave the current room."
+  },
+  "territories": "Territories",
+  "@territories": {
+    "description": "Label for territory count."
+  },
+  "endMatch": "End Match",
+  "@endMatch": {
+    "description": "Button label for the host to end the match."
+  },
+  "leaveMatch": "Leave Match",
+  "@leaveMatch": {
+    "description": "Button label for the guest to leave the match."
+  },
+  "discoveringRooms": "Searching for rooms…",
+  "@discoveringRooms": {
+    "description": "Message shown while discovering rooms on the network."
+  },
+  "hostingRoom": "Creating room…",
+  "@hostingRoom": {
+    "description": "Message shown while hosting a room."
+  },
+  "joiningRoom": "Joining room…",
+  "@joiningRoom": {
+    "description": "Message shown while joining a room."
+  },
+  "waitingForHost": "Waiting for host to start match…",
+  "@waitingForHost": {
+    "description": "Message shown to guests while waiting in the lobby."
+  },
+  "noRoomsFound": "No rooms found on the network",
+  "@noRoomsFound": {
+    "description": "Message shown when no rooms are discovered."
+  },
+  "errorGeneric": "Something went wrong",
+  "@errorGeneric": {
+    "description": "Generic error message."
+  },
+  "players": "Players",
+  "@players": {
+    "description": "Label for the player list section."
+  },
+  "set": "Set",
+  "@set": {
+    "description": "Button label to set a territory count."
   }
 }

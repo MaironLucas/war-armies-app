@@ -103,6 +103,132 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'War Armies'**
   String get appTitle;
+
+  /// Button label to host a new game.
+  ///
+  /// In en, this message translates to:
+  /// **'Host Game'**
+  String get hostGame;
+
+  /// Button label to join an existing game.
+  ///
+  /// In en, this message translates to:
+  /// **'Join Game'**
+  String get joinGame;
+
+  /// Label for the room name text field.
+  ///
+  /// In en, this message translates to:
+  /// **'Room Name'**
+  String get roomName;
+
+  /// Label for the player name text field.
+  ///
+  /// In en, this message translates to:
+  /// **'Player Name'**
+  String get playerName;
+
+  /// Button label to create a new room.
+  ///
+  /// In en, this message translates to:
+  /// **'Create Room'**
+  String get createRoom;
+
+  /// Button label to start the match.
+  ///
+  /// In en, this message translates to:
+  /// **'Start Match'**
+  String get startMatch;
+
+  /// Button label to destroy the room and disconnect all players.
+  ///
+  /// In en, this message translates to:
+  /// **'Kill Room'**
+  String get killRoom;
+
+  /// Confirmation message when killing a room.
+  ///
+  /// In en, this message translates to:
+  /// **'This will disconnect all players'**
+  String get killRoomConfirm;
+
+  /// Button label to join a room.
+  ///
+  /// In en, this message translates to:
+  /// **'Join'**
+  String get joinRoom;
+
+  /// Button label to leave the current room.
+  ///
+  /// In en, this message translates to:
+  /// **'Leave Room'**
+  String get leaveRoom;
+
+  /// Label for territory count.
+  ///
+  /// In en, this message translates to:
+  /// **'Territories'**
+  String get territories;
+
+  /// Button label for the host to end the match.
+  ///
+  /// In en, this message translates to:
+  /// **'End Match'**
+  String get endMatch;
+
+  /// Button label for the guest to leave the match.
+  ///
+  /// In en, this message translates to:
+  /// **'Leave Match'**
+  String get leaveMatch;
+
+  /// Message shown while discovering rooms on the network.
+  ///
+  /// In en, this message translates to:
+  /// **'Searching for rooms…'**
+  String get discoveringRooms;
+
+  /// Message shown while hosting a room.
+  ///
+  /// In en, this message translates to:
+  /// **'Creating room…'**
+  String get hostingRoom;
+
+  /// Message shown while joining a room.
+  ///
+  /// In en, this message translates to:
+  /// **'Joining room…'**
+  String get joiningRoom;
+
+  /// Message shown to guests while waiting in the lobby.
+  ///
+  /// In en, this message translates to:
+  /// **'Waiting for host to start match…'**
+  String get waitingForHost;
+
+  /// Message shown when no rooms are discovered.
+  ///
+  /// In en, this message translates to:
+  /// **'No rooms found on the network'**
+  String get noRoomsFound;
+
+  /// Generic error message.
+  ///
+  /// In en, this message translates to:
+  /// **'Something went wrong'**
+  String get errorGeneric;
+
+  /// Label for the player list section.
+  ///
+  /// In en, this message translates to:
+  /// **'Players'**
+  String get players;
+
+  /// Button label to set a territory count.
+  ///
+  /// In en, this message translates to:
+  /// **'Set'**
+  String get set;
 }
 
 class _AppLocalizationsDelegate

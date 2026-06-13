@@ -1,5 +1,9 @@
-export 'cubits/match_cubit.dart';
-export 'cubits/match_view_state.dart';
+export 'cubits/guest_match_cubit.dart';
+export 'cubits/guest_match_state.dart';
+export 'cubits/host_match_cubit.dart';
+export 'cubits/host_match_state.dart';
+export 'view/guest_match_page.dart';
+export 'view/host_match_page.dart';
 export 'view/match_page.dart';
 export 'widgets/player_card_widget.dart';
 export 'widgets/territory_counter_widget.dart';
